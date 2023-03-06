@@ -16,6 +16,30 @@
       "href": "./cmip5/item1.json",
       "type": "application/json",
       "title": "item 1"
+        },
+        {
+      "rel": "item",
+      "href": "./cmip5/item1.json",
+      "type": "application/json",
+      "title": "item 2"
+        },
+        {
+      "rel": "item",
+      "href": "./cmip5/item1.json",
+      "type": "application/json",
+      "title": "item 3"
+        },
+        {
+      "rel": "item",
+      "href": "./cmip5/item1.json",
+      "type": "application/json",
+      "title": "item 4"
+        },
+        {
+      "rel": "item",
+      "href": "./cmip5/item1.json",
+      "type": "application/json",
+      "title": "item 5"
         }
     ],
     "extent": {},
