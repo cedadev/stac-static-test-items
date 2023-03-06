@@ -17,6 +17,12 @@
             "rel": "root",
             "href": "./collection.json",
             "type": "application/json"
+        },
+        {
+      "rel": "child",
+      "href": "./collection_cmip5.json",
+      "type": "application/json",
+      "title": "CMIP5 example collection"
         }
     ],
     "extent": {},
