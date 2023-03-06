@@ -1,1 +1,25 @@
 
+{
+    "stac_version": "1.0.0",
+    "type": "Collection",
+    "license": "",
+    "id": "CMIP5_collection",
+    "description": "A sample collection of CMIP5 data",
+  ],
+    "links": [
+      {
+            "rel": "root",
+            "href": "./collection_cmip5.json",
+            "type": "application/json"
+        },
+        {
+      "rel": "item",
+      "href": "./cmip5/item1.json",
+      "type": "application/json",
+      "title": "item 1"
+        }
+    ],
+    "extent": {},
+    "summaries": {},
+ 
+}
