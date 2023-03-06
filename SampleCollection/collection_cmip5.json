@@ -5,7 +5,6 @@
     "license": "",
     "id": "CMIP5_collection",
     "description": "A sample collection of CMIP5 data",
-  ],
     "links": [
       {
             "rel": "root",
