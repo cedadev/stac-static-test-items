@@ -1,0 +1,29 @@
+{
+    "stac_version": "1.0.0",
+    "type": "Collection",
+    "license": "",
+    "id": "20201211_223832_CS2",
+    "description": "A simple collection example",
+    "providers": [
+    {
+      "name": "CEDA",
+      "description": "Data and information services for environmental science",
+      "roles": ["producer"],
+      "url": "https://ceda.ac.uk"
+    }
+  ],
+    "links": [
+      {
+            "rel": "root",
+            "href": "./collection.json",
+            "type": "application/json"
+        }
+    ],
+    "extent": {},
+    "summaries": {},
+  
+  "extent": {
+    "spatial": {"bbox": [[-180,-90,180,90]]},
+    "temporal": {"interval": [["2020-12-11T22:38:32.125Z", "2020-12-14T18:02:31.437Z"]]}
+  }
+}
