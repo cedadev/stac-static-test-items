@@ -1,5 +1,52 @@
-/badc/cmip5/data/cmip5/output1/ICHEC/EC-EARTH/decadal1980/day/atmos/day/r3i1p1
-/badc/cmip5/data/cmip5/output1/ICHEC/EC-EARTH/decadal1980/day/atmos/day/r6i1p1
-/badc/cmip5/data/cmip5/output1/ICHEC/EC-EARTH/piControl/fx/ocean/fx/r0i0p0
-/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-CC/rcp45/day/landIce/day/r1i1p1
-/badc/cmip5/data/cmip5/output2/MOHC/HadGEM2-A/amip/mon/aerosol/aero/r1i1p1
+{
+  "stac_version": "1.0.0",
+  "stac_extensions": [],
+  "type": "Feature",
+  "id": "/badc/cmip5/data/cmip5/output1/ICHEC/EC-EARTH/decadal1980/day/atmos/day/r3i1p1",
+  "bbox": [
+    172.91173669923782,
+    1.3438851951615003,
+    172.95469614953714,
+    1.3690476620161975
+  ],
+  "properties": {},
+  "collection": "CEDA Sample collection",
+  "links": [
+    {
+      "rel": "collection",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "CEDA Sample collection"
+    },
+        {
+      "rel": "collection",
+      "href": "../collection_cmip5.json",
+      "type": "application/json",
+      "title": "CMIP5 Collection"
+    },
+    {
+      "rel": "root",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "CEDA Sample collection - root"
+    },
+    {
+      "rel": "parent",
+      "href": "./collection_cmip5.json",
+      "type": "application/json",
+      "title": "CMIP5 -parent"
+    }
+  ],
+  "assets": {
+    "DRS_dataset_dir": {
+      "href": "https://data.ceda.ac.uk/badc/cmip5/data/cmip5/output1/ICHEC/EC-EARTH/decadal1980/day/atmos/day/r3i1p1",
+      "type": "text/html",
+      "title": "clt_day_EC-EARTH_decadal1980_r3i1p1",
+    },
+    "file": {
+      "href": "https://dap.ceda.ac.uk/badc/cmip5/data/cmip5/output1/ICHEC/EC-EARTH/decadal1980/day/atmos/day/r3i1p1/files/clt_20120918/clt_day_EC-EARTH_decadal1980_r3i1p1_19801101-19801231.nc?download=1",
+      "title": "clt_day_EC-EARTH_decadal1980_r3i1p1_19801101-19801231.nc",
+      "type": "application/x-netcdf",
+    }
+  }
+}
