@@ -1,1 +1,24 @@
 
+
+{
+    "stac_version": "1.0.0",
+    "type": "Collection",
+    "license": "",
+    "id": "leaf",
+    "description": "A collection for WW leaf clip species",
+    "links": [
+      {
+            "rel": "root",
+            "href": "./collection.json",
+            "type": "application/json"
+        },
+        {
+      "rel": "item",
+      "href": "./leaf/item1.json",
+      "type": "application/json",
+      "title": "WW leaf clip species item"
+        }
+    ],
+    "extent": {"bbox": 51.3198, 0.3332, 51.3234, 0.3388},
+    "summaries": {}
+}
