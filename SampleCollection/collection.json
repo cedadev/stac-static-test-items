@@ -2,8 +2,8 @@
     "stac_version": "1.0.0",
     "type": "Collection",
     "license": "",
-    "id": "20201211_223832_CS2",
-    "description": "A simple collection example",
+    "id": "CEDA_sample",
+    "description": "The CEDA Sample collection",
     "providers": [
     {
       "name": "CEDA",
@@ -25,7 +25,6 @@
       "title": "CMIP5 example collection"
         }
     ],
-    "extent": {},
     "summaries": {},
   
   "extent": {
