@@ -14,11 +14,11 @@
         },
         {
       "rel": "item",
-      "href": "./leaf/item1.json",
+      "href": "./item1.json",
       "type": "application/json",
       "title": "WW leaf clip species item"
         }
     ],
-    "extent": {"bbox": 51.3198, 0.3332, 51.3234, 0.3388},
+    "extent": {"bbox": [51.3198, 0.3332, 51.3234, 0.3388]},
     "summaries": {}
 }

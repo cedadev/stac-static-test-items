@@ -20,13 +20,13 @@
         },
         {
       "rel": "child",
-      "href": "./collection_cmip5.json",
+      "href": "./cmip5/collection.json",
       "type": "application/json",
       "title": "CMIP5 example collection"
         },
         {
       "rel": "child",
-      "href": "./collection_leaf.json",
+      "href": ".leaf/collection.json",
       "type": "application/json",
       "title": "Leaf example collection"
         }

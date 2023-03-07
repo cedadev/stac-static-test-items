@@ -12,15 +12,9 @@
   "properties": {},
   "collection": "CEDA Sample collection",
   "links": [
-    {
-      "rel": "collection",
-      "href": "../collection.json",
-      "type": "application/json",
-      "title": "CEDA Sample collection"
-    },
         {
       "rel": "collection",
-      "href": "../collection_cmip5.json",
+      "href": "./collection.json",
       "type": "application/json",
       "title": "CMIP5 Collection"
     },
@@ -32,9 +26,9 @@
     },
     {
       "rel": "parent",
-      "href": "../collection_cmip5.json",
+      "href": "../collection.json",
       "type": "application/json",
-      "title": "CMIP5 -parent"
+      "title": "CMIP5 - parent"
     }
   ],
   "assets": {
