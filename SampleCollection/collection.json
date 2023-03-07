@@ -23,6 +23,12 @@
       "href": "./collection_cmip5.json",
       "type": "application/json",
       "title": "CMIP5 example collection"
+        },
+        {
+      "rel": "child",
+      "href": "./collection_leaf.json",
+      "type": "application/json",
+      "title": "Leaf example collection"
         }
     ],
     "summaries": {},
