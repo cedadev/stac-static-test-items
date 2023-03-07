@@ -26,7 +26,7 @@
         },
         {
       "rel": "child",
-      "href": ".leaf/collection.json",
+      "href": "./leaf/collection.json",
       "type": "application/json",
       "title": "Leaf example collection"
         }
