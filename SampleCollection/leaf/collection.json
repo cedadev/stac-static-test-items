@@ -5,7 +5,8 @@
     "type": "Collection",
     "license": "",
     "id": "leaf",
-    "description": "A collection for WW leaf clip species",
+    "title": "Intra-annual multi-temporal reflectance of 17 herbaceous species of chalk grassland using leaf-clip mounted on spectrometer",
+    "description": "A time-series of leaf-level optical hyperspectral reflectance captured using a leaf-clip and handheld spectrometer for 17 herbaceous species typical of chalk grassland habitat in Kent UK, over 13 sampling dates in 2021. Data were collected using a non-imaging spectrometer manufactured by Spectra-vista Corporation fitted with a leaf-clip; capturing reflectance from 350 - 2500nm. Funded by NERC Grant NE/L002566/1.",
     "links": [
       {
             "rel": "root",
