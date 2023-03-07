@@ -41,12 +41,12 @@
     "DRS_dataset_dir": {
       "href": "https://data.ceda.ac.uk/badc/cmip5/data/cmip5/output1/ICHEC/EC-EARTH/decadal1980/day/atmos/day/r3i1p1",
       "type": "text/html",
-      "title": "clt_day_EC-EARTH_decadal1980_r3i1p1",
+      "title": "clt_day_EC-EARTH_decadal1980_r3i1p1"
     },
     "file": {
       "href": "https://dap.ceda.ac.uk/badc/cmip5/data/cmip5/output1/ICHEC/EC-EARTH/decadal1980/day/atmos/day/r3i1p1/files/clt_20120918/clt_day_EC-EARTH_decadal1980_r3i1p1_19801101-19801231.nc?download=1",
       "title": "clt_day_EC-EARTH_decadal1980_r3i1p1_19801101-19801231.nc",
-      "type": "application/x-netcdf",
+      "type": "application/x-netcdf"
     }
   }
 }
