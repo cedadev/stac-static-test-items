@@ -8,7 +8,7 @@
     "links": [
       {
             "rel": "root",
-            "href": "./collection_cmip5.json",
+            "href": "./collection.json",
             "type": "application/json"
         },
         {
