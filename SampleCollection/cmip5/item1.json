@@ -32,7 +32,7 @@
     },
     {
       "rel": "parent",
-      "href": "./collection_cmip5.json",
+      "href": "../collection_cmip5.json",
       "type": "application/json",
       "title": "CMIP5 -parent"
     }
