@@ -1,2 +1,39 @@
 
+{
+    "stac_version": "1.0.0",
+    "stac_extensions": [],
+    "type": "Feature",
+    "id": "leaf",
+    "bbox": [51.3198, 0.3332, 51.3234, 0.3388],
+    "properties": {},
+    "collection": "CEDA Sample collection",
+    "links": [
+          {
+        "rel": "collection",
+        "href": "./collection.json",
+        "type": "application/json",
+        "title": "CMIP5 Collection"
+      },
+      {
+        "rel": "root",
+        "href": "../collection.json",
+        "type": "application/json",
+        "title": "CEDA Sample collection - root"
+      },
+      {
+        "rel": "parent",
+        "href": "../collection.json",
+        "type": "application/json",
+        "title": "CMIP5 - parent"
+      }
+    ],
+    "assets": {     
+      "WW_leaf_clip_species.csv": {
+        "href": "https://dap.ceda.ac.uk/badc/deposited2022/WW_leaf_clip_species/WW_leaf_clip_species.csv?download=1",
+        "title": "WW_leaf_clip_species.csv",
+        "type": "text/csv",
+        "roles": ["data"]
+      }
+    }
+      }
 

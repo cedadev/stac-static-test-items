@@ -18,7 +18,15 @@
       "href": "./item1.json",
       "type": "application/json",
       "title": "WW leaf clip species item"
-        }
+        },
+        {
+          "rel": "describedby",
+          "href": "https://catalogue.ceda.ac.uk/uuid/8a798466b9f74b3da500004a94ee5fee",
+          "type": "text/html",
+          "title": "WW leaf clip species catalogue record."
+            }
+     
+        
     ],
     "extent": {"bbox": [51.3198, 0.3332, 51.3234, 0.3388]},
     "summaries": {}
